@@ -1,0 +1,2 @@
+# languages
+The bot languages
