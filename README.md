@@ -1,2 +1,3 @@
-# languages
-The bot languages
+# TurkishBots Languages
+
+The common languages of TurkishBots
